@@ -45,7 +45,7 @@ I specialize in Windows servers, Linux, MECM, Active Directory, Office 365, Azur
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github-readme-twitter.gazf.vercel.app/api?id=BesserraRenan&layout=wide" align="center" style="width: 100%" />
+<img src="https://github-readme-twitter.gazf.vercel.app/api?id=BesserraRenan&layout" align="center" style="width: 100%" />
 </div>  
 
 
