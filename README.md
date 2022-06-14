@@ -61,7 +61,7 @@ I specialize in Windows servers, Linux, MECM, Active Directory, Office 365, Azur
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src=https://github.com/RBNoronha/github-stats-terminal-style/blob/8ffe8240ac9783665a0bee55a576653688423822/github_stats.svg/>
+<img src=https://github.com/RBNoronha/github-stats-terminal-style/blob/master/github_stats.svg/>
 </td></tr></table>  
 
 <br/>  
