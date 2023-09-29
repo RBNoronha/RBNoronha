@@ -13,8 +13,6 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 
-Siga-me no LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=renanbesserra
-
 
 ### A little about myself !  
 I am a Microsoft Specialist who transformed years of study to become an MCT.
