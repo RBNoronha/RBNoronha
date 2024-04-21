@@ -17,7 +17,7 @@
 ### A little about myself !  
 I am a Microsoft Specialist who transformed years of study to become an MCT.
 
-I specialize in Windows servers, Linux, MECM, Active Directory, Office 365, Azure, Powershell and other Microsoft services. I have always been fascinated by automating environments, and I have always admired the development area a lot, but at the beginning of my career in technology I had a lot of difficulty learning some languages, today I try to venture into Powershell, automating services to solve problems quickly.  
+I specialize in Windows servers, Linux, MECM, Active Directory, Office 365, Azure, Powershell and other Microsoft services. I have always been fascinated by automating environments, and I have always admired the development area a lot, but at the beginning of my career in technology I had a lot of difficulty learning some languages, today I try to venture into Powershell and Python, automating services to solve problems quickly.  
   
 
 <br/>  
